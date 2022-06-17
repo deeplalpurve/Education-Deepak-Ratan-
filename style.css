@@ -1,0 +1,40 @@
+body{
+	background-color:ligbtblue;
+	font-size:20px;
+}
+.box{
+	width:1270px;
+	height:200px;
+	border:2px solid red;
+	background-color:red;
+	background-image:url("image/boy.jpg");
+	background-position:300px;
+	background-repeat:no-repeat;
+	text-align:center;
+	font-size:150px;
+	color:white;
+	
+	
+}
+.main{
+	background-color:black;
+	width:1250px;
+	height:100px;
+	text-align:center;
+	display:flex;
+	padding:20px;
+	font-size:50px;
+}
+.main li {
+	text-decoration:none;
+	
+}
+.main a{
+	text-decoration: none;
+	color:white;
+}
+.main FORM{
+	COLOR:WHITE;
+		text-align:right;
+		margin:14px;
+}
